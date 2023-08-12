@@ -1,7 +1,9 @@
 # EasyTeX
 Chrome extension to integrate OpenAI GPT api into Overleaf.
 
-# Setup
+# Getting Started
+
+# Play with it
 
 # Authors
 This project was originally equipped with a backend deployed on Google Cloud and released in closed beta after a fun weekend hackathon with [Seif](https://github.com/vateseif). We wanted to try it out the new OpenAI GPT API. Fun stuff!
