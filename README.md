@@ -1,7 +1,7 @@
 # EasyTeX
 Chrome extension to integrate OpenAI GPT api into Overleaf.
 
-# Getting Started
+# Getting started
 
 # Play with it
 
